@@ -14,7 +14,7 @@ By cleaning the data and generating descriptive statistics, we visualized rating
 ## Tools & Technology
 This project was completed using the following tools:
 * Python (Jupyter Notebook)
-* Pandas = data cleaning, grouping, and feature engineering
+* Pandas - data cleaning, grouping, and feature engineering
 * NumPy - numerical operations
 * Matplotlib - data visualization
 * Seaborn - enhanced statistical plots
